@@ -9,6 +9,8 @@ Feature engineering and selection,
 Model training and evaluation,
 Sales forecasting and analysis,
 
+by : Ansh Kapoor
+
 ## Technologies Used:
 
 - Python
@@ -20,8 +22,9 @@ Sales forecasting and analysis,
 
 Contributing: Contributions and feedback are welcome! Please feel free to fork the repository, submit pull requests, or open issues for any suggestions or improvements.
 
-by : Ansh Kapoor
-
 (Also I have prepared the dataset according to me so you can modify accordingly)
 
 .. Please feel free to modify the code and use your own or other datasets, using this code as a reference.
+
+
+Main Data - https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
